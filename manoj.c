@@ -9,4 +9,4 @@ scanf("%d",&b);
 N=a<b;
 N<100000?printf("positive"):printf("negative");
 }
-}
+
